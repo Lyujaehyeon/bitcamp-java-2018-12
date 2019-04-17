@@ -5,7 +5,7 @@
 
 ## 주엑터(primary actor)
   일반회원
-
+      
 ## 보조 엑터(Secondarty Actor)
 
 
